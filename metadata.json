@@ -1,0 +1,7 @@
+{
+  "name": "DEVAN BRAND",
+  "description": "A comprehensive POS and Online Shop system supporting Kurdish, Arabic, and English, featuring payment integration and thermal invoice printing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
